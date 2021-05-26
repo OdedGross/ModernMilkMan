@@ -25,7 +25,7 @@ public class login extends base {
         // test that i cant type letters
         loginP.userPhoneNo.clear();
         loginP.userPass.clear();
-        loginP.failLoginErrorTexts("fasfasf", "password");
+        loginP.failLoginErrorTexts("11numbers11", "password");
 
     }
 
