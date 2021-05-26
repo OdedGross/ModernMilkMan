@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Environment>
+	<BrowserType>Chrome</BrowserType>  <!-- ie, Chrome or firefox -->
+	<URL>https://tst.themodernmilkman.co.uk/</URL>
+	<MyUserName>07517838267</MyUserName>
+	<MyPassword>passpass1</MyPassword>
+	<ChromeDriverPath>C://Seleniumstuff/chromedriver.exe</ChromeDriverPath>
+	<IEDriverPath>C://Seleniumstuff/IEDriverServer.exe</IEDriverPath>
+	<FFDriverPath>C://Seleniumstuff/FFDriver.exe</FFDriverPath>
+	<implicitlyWait>10</implicitlyWait>
+	<ImagePath>C://Seleniumstuff/SikulixImages/</ImagePath>
+	<BadEmailAdress>gagaga@something.something</BadEmailAdress>
+	<EmailAdress>Odedgross90@gmail.com</EmailAdress>
+
+
+	<!-- Report -->
+	<ReportFilePath>C://Seleniumstuff/TestExample/</ReportFilePath>
+	<ReportFileName>TestReport</ReportFileName>
+	<SSPath>C://Seleniumstuff/TestExample/</SSPath>
+</Environment>
